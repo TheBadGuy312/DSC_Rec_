@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">DSC_Rec</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">About US</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="about_us">About Us</string>
+    <string name="demo_app_dsc">Demo App DSC</string>
+    <string name="developer_student_clubs_is_a_community_where_everyone_is_welcome_we_help_students_bridge_the_gap_between_theory_and_practice_and_grow_their_knowledge_by_providing_a_peer_to_peer_learning_environment_by_conducting_workshops_study_jams_and_building_solutions_for_local_businesses_developer_student_clubs_is_a_program_supported_by_google_developers">Developer Student Clubs is a community where everyone is welcome. We help students bridge the gap between theory and practice and grow their knowledge by providing a peer-to-peer learning environment, by conducting workshops, study jams and building solutions for local businesses. Developer Student Clubs is a program supported by Google Developers.</string>
+    <string name="visit_dscsastra_com">Visit dscsastra.com</string>
+</resources>
